@@ -1,7 +1,7 @@
 {
-   "fullName" : "AutoDial2",
+   "fullName" : "Switch Tabs",
    "version" : "1.0",
-   "name" : "autodial2",
+   "name" : "switch-tabs",
    "dependencies" : [
       "api-utils",
       "addon-kit"
