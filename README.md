@@ -5,3 +5,4 @@ Install
 * cfx run
 * cfx xpi
 
+Currently shift-F1 and shift-F2 are hard-coded inside the source code.

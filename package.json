@@ -1,0 +1,17 @@
+{
+   "fullName" : "AutoDial2",
+   "version" : "1.0",
+   "name" : "autodial2",
+   "dependencies" : [
+      "api-utils",
+      "addon-kit"
+   ],
+   "author" : "gdamjan@gmail.com",
+   "description" : "",
+   "license" : "",
+   "main" : "main",
+   "contributors" : [],
+   "url" : "https://github.com/gdamjan/firefox-switch-tabs-addon",
+   "lib" : "lib",
+   "id" : "jid0-B3ETAi7AMpl1zao5TVhaN7LCh3A"
+}
